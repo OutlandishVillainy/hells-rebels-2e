@@ -1,0 +1,22 @@
+{
+    "name": "hells-rebels-2e",
+    "title": "Hell's Rebels 2e",
+    "description": "A module containing the exported Hell's Rebels 2e compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "OutlandishVillainy",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "Hell's Rebels",
+            "module": "hells-rebels-2e",
+            "path": "packs/world-hells-rebels-1650324239499.db",
+            "name": "world-hells-rebels-1650324239499"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
